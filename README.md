@@ -29,3 +29,13 @@
 13. Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 14. Написать программу, имитирующую работу реестра домашних животных. В программе должен быть реализован следующий функционал: 14.1 Завести новое животное 14.2 определять животное в правильный класс 14.3 увидеть список команд, которое выполняет животное 14.4 обучить животное новым командам 14.5 Реализовать навигацию по меню
 15. Создайте класс Счетчик, у которого есть метод add(), увеличивающий̆ значение внутренней̆ int переменной̆ на 1 при нажатие “Завести новое животное” Сделайте так, чтобы с объектом такого типа можно было работать в блоке try-with-resources. Нужно бросить исключение, если работа с объектом типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение считать в ресурсе try, если при заведения животного заполнены все поля.
+
+### Решение
+
+Task 1-2 https://github.com/MikhalevDmitri5189/Final-work-specialization/blob/master/Task_1-2/linux-comands.md
+
+Task 3-4 https://github.com/MikhalevDmitri5189/Final-work-specialization/blob/master/Task_3-4/linux-comands.md
+
+Diagram https://github.com/MikhalevDmitri5189/Final-work-specialization/blob/master/Diagram_class/Diagram.png
+
+Task 13-15 https://github.com/MikhalevDmitri5189/Final-work-specialization/tree/master/Task_13_15
