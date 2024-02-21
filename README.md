@@ -38,4 +38,6 @@ Task 3-4 https://github.com/MikhalevDmitri5189/Final-work-specialization/blob/ma
 
 Diagram https://github.com/MikhalevDmitri5189/Final-work-specialization/blob/master/Diagram_class/Diagram.png
 
+Task 8-12 https://github.com/MikhalevDmitri5189/Final-work-specialization/blob/master/Task_8-12/sql-command.md
+
 Task 13-15 https://github.com/MikhalevDmitri5189/Final-work-specialization/tree/master/Task_13_15
