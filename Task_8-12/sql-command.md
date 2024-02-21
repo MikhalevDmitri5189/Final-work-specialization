@@ -104,7 +104,7 @@ CREATE TABLE camels
     Foreign KEY (animal_kind_id) REFERENCES pack_animals (id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 ```
-Команды, которыми управляют погонщики верблюдов.
+### Команды, которыми управляют погонщики верблюдов.
 
              ГИТ!    - ИДИ!
              ДУРР!  - СТОЯТЬ!
